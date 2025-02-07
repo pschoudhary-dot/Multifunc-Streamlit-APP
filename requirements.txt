@@ -4,6 +4,7 @@ attrs==24.3.0
 matplotlib
 pandas
 numpy
+plotly
 seaborn
 beautifulsoup4==4.12.3
 blinker==1.9.0
