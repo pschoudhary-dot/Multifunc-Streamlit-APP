@@ -4,6 +4,8 @@ attrs==24.3.0
 matplotlib
 pandas
 numpy
+textblob
+PyPDF2
 plotly
 seaborn
 beautifulsoup4==4.12.3
