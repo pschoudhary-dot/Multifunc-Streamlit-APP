@@ -4,6 +4,7 @@ attrs==24.3.0
 matplotlib
 pandas
 numpy
+cleantext
 textblob
 PyPDF2
 plotly
